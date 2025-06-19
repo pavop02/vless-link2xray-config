@@ -1,0 +1,1 @@
+vless://12345678-1234-1234-1234-123456789abc@1.2.3.4:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=example.com&sid=&pbk=AbCdEfGhIjKlMnOpQrStUvWxYz1234567890abcd#fake-id@demo.com&prefix=%16%03%01%00%C2%A8%01%01#Example_VPN
