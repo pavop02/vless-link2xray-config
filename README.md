@@ -14,13 +14,13 @@
 
 ## Installation and Usage:
 
-1. Download the script 'parser.py' and save it in your XRay config folder (e.g. '~/.config/xray/').
-2. Create a file 'input.txt' in the same folder and put your VLESS URL or subscription link inside.
+1. Save the 'parser.py' script file in your user's XRay config folder (e.g. '~/.config/xray/').
+2. Create a file 'input.txt' in the same folder and paste your VLESS URL (key) or subscription (link) inside.
 3. Run the script:
+
+   python3 parser.py
    
-   python3 ./parser.py
-   
-4. The generated config will be saved as xray_config.json
+5. xray_config.json will appear in the folder.
 
 ### License:
 GPLv3
