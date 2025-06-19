@@ -1,15 +1,17 @@
 # VLESS Key/Link to XRay-config Converter (parser)
 
-Simple Python tool to convert VLESS URLs and subscription links into ready-to-use XRay configuration files. 
+• Simple Python tool to convert VLESS URLs and subscription links into ready-to-use XRay configuration files. 
 
-Supports parsing both single VLESS links and base64-encoded subscriptions with Reality protocol parameters. 
+• Supports parsing both single VLESS links and base64-encoded subscriptions with Reality protocol parameters. 
 
-Easy to use, no extra dependencies. Ideal for quickly generating XRay configs from various input formats.
+• Easy to use, no extra dependencies. Ideal for quickly generating XRay configs from various input formats.
 
 ## Features:
 
 • Supports single VLESS links and subscriptions.
+
 • Generates configs with handling of `sni`, `fp`, `pbk`, `sid` parameters.
+
 • No dependencies on Docker or other complex tools.
 
 ## Installation and Usage:
